@@ -1,7 +1,7 @@
 <application>
   <component name="UISettings">
     <option name="CLOSE_NON_MODIFIED_FILES_FIRST" value="true" />
-    <option name="CONSOLE_COMMAND_HISTORY_LIMIT" value="999" />
+    <option name="CONSOLE_COMMAND_HISTORY_LIMIT" value="1000" />
     <option name="FONT_FACE" value="Operator Mono" />
     <option name="FONT_SCALE" value="1.0" />
     <option name="FONT_SIZE" value="16" />
