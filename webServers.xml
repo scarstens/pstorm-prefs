@@ -49,6 +49,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="5835cb6d-6bf5-4fff-8c81-a1ec9b497e8e" name="pagely-tsb-qa" url="http://timespringboard.qa.p104.sites.pressdns.com">
+        <fileTransfer host="fansided-staging.pagelyhosting.com" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/client_sethcarstens/sites/timespringboard.qa.p104.sites.pressdns.com" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
