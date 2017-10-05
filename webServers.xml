@@ -57,6 +57,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="8d01dc48-01ff-4ee0-98eb-ce089ad34389" name="pagely-octo" url="http://timespringboard.com/">
+        <fileTransfer host="fansided-production.pagelyhosting.com" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/sethcarstens/sites/octo.team" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
