@@ -4,11 +4,6 @@
       <PhpCSConfiguration standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;WordPress;WordPress-Core;WordPress-Docs;WordPress-Extra;WordPress-VIP;Zend" tool_path="/usr/local/bin/phpcs" />
     </phpcs_settings>
   </component>
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter home="/usr/local/Cellar/php70/7.0.15_8/bin/php" id="f96984fa-c7e6-4469-bfed-57ba39a1769d" name="PHP 7" debugger_id="php.debugger.XDebug" />
-    </interpreters>
-  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7">
