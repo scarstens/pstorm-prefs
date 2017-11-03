@@ -1,0 +1,7 @@
+<keymap version="1" name="Default copy 1" parent="Mac OS X 10.5+">
+  <action id="Git.Tag">
+    <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
+  <action id="GotoTest" />
+  <action id="Images.ShowThumbnails" />
+</keymap>
