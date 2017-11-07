@@ -1,7 +1,12 @@
 <keymap version="1" name="Default copy 1" parent="Mac OS X 10.5+">
+  <action id="EditorToggleCase" />
   <action id="Git.Tag">
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
+  <action id="PublishGroup.UploadTo">
+    <keyboard-shortcut first-keystroke="shift meta u" />
+  </action>
+  <action id="ShelveChanges.UnshelveWithDialog" />
 </keymap>
