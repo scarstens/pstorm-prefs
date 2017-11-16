@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="17d2eb7f-49e5-4e4b-984e-e4d2dc408cb1" name="pagely-staging-tsb" url="https://staging.timespringboard.com">
+        <fileTransfer host="fansided-staging.pagelyhosting.com" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/client_scarstens1271/sites/timespringboard.staging.p104.sites.pressdns.com" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
