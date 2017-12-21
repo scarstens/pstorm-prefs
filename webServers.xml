@@ -18,7 +18,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="9f295a4c-f0b0-46cd-8160-b5db86eea7b0" name="tpl-microsite" url="http://35.168.27.120?mustbeon=vpn">
-        <fileTransfer host="35.168.27.120" port="22" accessType="SFTP">
+        <fileTransfer host="35.168.27.120" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
