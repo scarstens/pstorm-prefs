@@ -25,6 +25,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="fb3758f4-ca16-4555-827f-aa453bc76a0c" name="carstensfamily" url="http://carstensfamily.sftp.wpengine.com">
+        <fileTransfer host="carstensfamily.sftp.wpengine.com" port="2222" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="2222" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
