@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="tmpl" type="PLAIN_TEXT" />
+      <mapping ext="php_off" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
