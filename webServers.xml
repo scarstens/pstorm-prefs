@@ -33,6 +33,14 @@
           <option name="port" value="2222" />
         </fileTransfer>
       </webServer>
+      <webServer id="3b334066-68d3-4fdb-a435-749ff77b0c0d" name="aws-octo-staging" url="http://35.168.27.120?mustbeon=vpn">
+        <fileTransfer host="35.168.27.120" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
