@@ -1,4 +1,4 @@
-<code_scheme name="WordPress">
+<code_scheme name="WordPress" version="173">
   <option name="AUTODETECT_INDENTS" value="false" />
   <JSCodeStyleSettings>
     <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
@@ -16,13 +16,18 @@
     <option name="LOWER_CASE_NULL_CONST" value="true" />
     <option name="ELSE_IF_STYLE" value="COMBINE" />
     <option name="VARIABLE_NAMING_STYLE" value="SNAKE_CASE" />
-    <option name="BLANK_LINE_BEFORE_RETURN_STATEMENT" value="true" />
+    <option name="BLANK_LINES_BEFORE_RETURN_STATEMENT" value="1" />
     <option name="KEEP_RPAREN_AND_LBRACE_ON_ONE_LINE" value="true" />
     <option name="SPACES_AROUND_VAR_WITHIN_BRACKETS" value="true" />
     <option name="SPACE_BEFORE_UNARY_NOT" value="true" />
     <option name="SPACE_AFTER_UNARY_NOT" value="true" />
     <option name="PHPDOC_USE_FQCN" value="true" />
   </PHPCodeStyleSettings>
+  <codeStyleSettings language="HTML">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <option name="SPACE_WITHIN_METHOD_CALL_PARENTHESES" value="true" />
     <option name="SPACE_WITHIN_METHOD_PARENTHESES" value="true" />
@@ -75,7 +80,6 @@
     <option name="FOR_BRACE_FORCE" value="3" />
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
-      <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
 </code_scheme>
