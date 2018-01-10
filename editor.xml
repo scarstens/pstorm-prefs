@@ -3,8 +3,26 @@
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>
-  <component name="SqlEditorOptions">
-    <option name="concatenateStringsOnEnter" value="true" />
-    <option name="qualificationType" value="On collisions" />
+  <component name="InspectionProfileManager">
+    <info color="be0367">
+      <option name="BACKGROUND" value="52503a" />
+      <option name="ERROR_STRIPE_COLOR" value="be0367" />
+      <option name="myName" value="Smelly" />
+      <option name="myVal" value="50" />
+      <option name="myExternalName" value="Smelly" />
+      <option name="myDefaultAttributes">
+        <option name="ERROR_STRIPE_COLOR" value="be0367" />
+      </option>
+    </info>
+    <list size="8">
+      <item index="0" class="java.lang.String" itemvalue="Smelly" />
+      <item index="1" class="java.lang.String" itemvalue="INFORMATION" />
+      <item index="2" class="java.lang.String" itemvalue="TYPO" />
+      <item index="3" class="java.lang.String" itemvalue="SERVER PROBLEM" />
+      <item index="4" class="java.lang.String" itemvalue="INFO" />
+      <item index="5" class="java.lang.String" itemvalue="WEAK WARNING" />
+      <item index="6" class="java.lang.String" itemvalue="WARNING" />
+      <item index="7" class="java.lang.String" itemvalue="ERROR" />
+    </list>
   </component>
 </application>
