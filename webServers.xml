@@ -41,6 +41,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="c081ffeb-1050-441c-8140-9860dbd9f02f" name="onecms-lol" url="https://onecms.lol">
+        <fileTransfer host="34.224.137.124" port="22" privateKey="$USER_HOME$/.ssh/corecms-ec2-access.pem" rootFolder="/var/www/wordpress" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
