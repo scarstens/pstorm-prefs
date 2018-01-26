@@ -49,6 +49,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="2a623604-99b5-4709-bfdd-689d325ccb6e" name="pagely-arizonawp-org" url="https://arizonawp.org">
+        <fileTransfer host="sftp.pressftp.com" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
