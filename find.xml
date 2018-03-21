@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'onecms-clone-post'" />
-    <option name="defaultScopeName" value="Project 'onecms-clone-post'" />
-    <option name="SEARCH_SCOPE" value="Project 'onecms-clone-post'" />
+    <option name="customScope" value="Project 'abstract-plugin-base'" />
+    <option name="defaultScopeName" value="Project 'abstract-plugin-base'" />
+    <option name="SEARCH_SCOPE" value="Project 'abstract-plugin-base'" />
   </component>
 </application>
