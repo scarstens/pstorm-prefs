@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'abstract-plugin-base'" />
-    <option name="defaultScopeName" value="Project 'abstract-plugin-base'" />
-    <option name="SEARCH_SCOPE" value="Project 'abstract-plugin-base'" />
+    <option name="customScope" value="Directory '.../app/boilerplates/simple [wordpress-development-toolkit]'" />
+    <option name="defaultScopeName" value="Directory '.../app/boilerplates/simple [wordpress-development-toolkit]'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../app/boilerplates/simple [wordpress-development-toolkit]'" />
   </component>
 </application>
