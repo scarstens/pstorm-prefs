@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../www/onecms.test/public_html/wp-content/plugins/_onecms_initialize/app/class-plugin.php [VVV]'" />
-    <option name="defaultScopeName" value="File '.../www/onecms.test/public_html/wp-content/plugins/_onecms_initialize/app/class-plugin.php [VVV]'" />
-    <option name="SEARCH_SCOPE" value="File '.../www/onecms.test/public_html/wp-content/plugins/_onecms_initialize/app/class-plugin.php [VVV]'" />
+    <option name="customScope" value="Directory '.../www/onecms.test/public_html/wp-content/plugins/_onecms_initialize [VVV]'" />
+    <option name="defaultScopeName" value="Directory '.../www/onecms.test/public_html/wp-content/plugins/_onecms_initialize [VVV]'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../www/onecms.test/public_html/wp-content/plugins/_onecms_initialize [VVV]'" />
   </component>
 </application>
