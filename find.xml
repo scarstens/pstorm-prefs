@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../www/sethflix.test/public_html/wp-content/plugins/wpop-example-panel/lib/wordpress-phoenix/wordpress-options-builder-class/inc/class-assets.php [VVV]'" />
-    <option name="defaultScopeName" value="File '.../www/sethflix.test/public_html/wp-content/plugins/wpop-example-panel/lib/wordpress-phoenix/wordpress-options-builder-class/inc/class-assets.php [VVV]'" />
-    <option name="SEARCH_SCOPE" value="File '.../www/sethflix.test/public_html/wp-content/plugins/wpop-example-panel/lib/wordpress-phoenix/wordpress-options-builder-class/inc/class-assets.php [VVV]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
