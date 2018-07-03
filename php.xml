@@ -1,7 +1,7 @@
 <application>
   <component name="PhpCodeSniffer">
     <phpcs_settings>
-      <PhpCSConfiguration max_messages_per_file="99" standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;WordPress;WordPress-Core;WordPress-Docs;WordPress-Extra;WordPress-VIP;Zend" tool_path="$USER_HOME$/Sites/VVV/vendor/bin/phpcs" />
+      <PhpCSConfiguration max_messages_per_file="99" standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;WordPress;WordPress-Core;WordPress-Docs;WordPress-Extra;WordPress-VIP;Zend" tool_path="$USER_HOME$/Sites/VVV/gh-repos/wordpress-options-builder-class/vendor/bin/phpcs" />
     </phpcs_settings>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
