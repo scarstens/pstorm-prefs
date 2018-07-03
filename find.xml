@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Project 'wordpress-options-builder-class'" />
+    <option name="defaultScopeName" value="Project 'wordpress-options-builder-class'" />
+    <option name="SEARCH_SCOPE" value="Project 'wordpress-options-builder-class'" />
   </component>
 </application>
