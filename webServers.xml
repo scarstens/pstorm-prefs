@@ -6,6 +6,30 @@
       </SftpAdvancedOptions>
     </sftpAdvancedGlobalOptions>
     <option name="servers">
+      <webServer id="c98d9236-16e9-4f0c-8d63-e2b52e195939" name="sethflix" url="https://sethflix.com">
+        <fileTransfer host="sethflixcom.sftp.wpengine.com" port="2222" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="2222" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="eb121eb4-eda2-4871-af19-f145cdbaf8b4" name="pullquotenews" url="http://pullquote.sftp.wpengine.com">
+        <fileTransfer host="pullquote.sftp.wpengine.com" port="2222" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="2222" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="406a6ddb-87e1-4cf9-965d-c45363086d0c" name="drdevi-ccfd" url="http://drdevi.com">
+        <fileTransfer host="devisites.sftp.wpengine.com" port="2222" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="2222" />
+        </fileTransfer>
+      </webServer>
       <webServer id="c3753b09-f7f2-46da-a51a-3ad1211c8a04" name="pagely-qa-tsb" url="https://timespringboard.qa.p104.sites.pressdns.com/">
         <fileTransfer host="fansided-staging.pagelyhosting.com" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/client_scarstens1271/sites/timespringboard.qa.p104.sites.pressdns.com" accessType="SFTP" keyPair="true">
           <advancedOptions>
