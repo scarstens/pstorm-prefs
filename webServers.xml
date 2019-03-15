@@ -94,6 +94,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="ff51712e-dec0-4548-ab32-1955934a1e9c" name="sethmatics" url="https://sethflix.com">
+        <fileTransfer host="sethmatics.sftp.wpengine.com" port="2222" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="2222" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
