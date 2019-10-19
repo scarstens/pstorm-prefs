@@ -30,68 +30,12 @@
           <option name="port" value="2222" />
         </fileTransfer>
       </webServer>
-      <webServer id="c3753b09-f7f2-46da-a51a-3ad1211c8a04" name="pagely-qa-tsb" url="https://timespringboard.qa.p104.sites.pressdns.com/">
-        <fileTransfer host="fansided-staging.pagelyhosting.com" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/client_scarstens1271/sites/timespringboard.qa.p104.sites.pressdns.com" accessType="SFTP" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="17d2eb7f-49e5-4e4b-984e-e4d2dc408cb1" name="pagely-staging-tsb" url="https://staging.timespringboard.com">
-        <fileTransfer host="fansided-staging.pagelyhosting.com" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/client_scarstens1271/sites/timespringboard.staging.p104.sites.pressdns.com" accessType="SFTP" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="9f295a4c-f0b0-46cd-8160-b5db86eea7b0" name="aws-octo" url="http://35.168.27.120?mustbeon=vpn">
-        <fileTransfer host="35.168.27.120" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/" accessType="SFTP" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
       <webServer id="fb3758f4-ca16-4555-827f-aa453bc76a0c" name="carstensfamily" url="http://carstensfamily.sftp.wpengine.com">
         <fileTransfer host="carstensfamily.sftp.wpengine.com" port="2222" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
           <option name="port" value="2222" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="3b334066-68d3-4fdb-a435-749ff77b0c0d" name="aws-octo-staging" url="http://35.168.27.120?mustbeon=vpn">
-        <fileTransfer host="35.168.27.120" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/" accessType="SFTP" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="c081ffeb-1050-441c-8140-9860dbd9f02f" name="onecms-lol" url="https://onecms.lol">
-        <fileTransfer host="server.onecms.lol" port="22" privateKey="$USER_HOME$/.ssh/corecms-ec2-access.pem" rootFolder="/var/www/wordpress" accessType="SFTP" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="2a623604-99b5-4709-bfdd-689d325ccb6e" name="pagely-arizonawp-org" url="https://arizonawp.org">
-        <fileTransfer host="sftp.pressftp.com" port="22" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="0b7fd5b9-9b67-452d-a3c6-b977b05b85d4" name="aws-onecms-lol" url="https://onecms.lol">
-        <fileTransfer host="server.onecms.lol" port="22" privateKey="$USER_HOME$/.ssh/corecms-ec2-access.pem" rootFolder="/var/www/wordpress/htdocs" accessType="SFTP" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="ff51712e-dec0-4548-ab32-1955934a1e9c" name="sethmatics" url="https://sethflix.com">
