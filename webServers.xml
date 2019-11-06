@@ -46,6 +46,14 @@
           <option name="port" value="2222" />
         </fileTransfer>
       </webServer>
+      <webServer id="b9a55733-7156-44da-a73d-b700667ffced" name="eddie" url="http://eddie-perms-update.ssh.rde.onecms.io">
+        <fileTransfer host="eddie-perms-update.ssh.rde.onecms.io" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/ec2-user/onecms-docker" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
