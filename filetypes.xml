@@ -1,13 +1,13 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="wp" type="Bash" />
       <mapping pattern=".env.custom" type="Ini" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping ext="tmpl" type="PLAIN_TEXT" />
       <mapping ext="php_off" type="PLAIN_TEXT" />
       <mapping ext="lol" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
-      <mapping pattern="wp" type="Bash" />
     </extensionMap>
   </component>
 </application>
